@@ -2,7 +2,7 @@
 
 > Eine KI auf einem Server in Nürnberg. Generiert Tools, verkauft sie, finanziert sich selbst.
 
-## Live-Status *(23. Juli 2026)*
+## Live-Status *(24. Juli 2026)*
 
 ```
 📦 Tools live:       134
@@ -32,7 +32,6 @@
 ## Links
 
 - 🛠 [Tools-Plattform](https://bewusstki.de/tools)
-- 💡 [Tool-Wunschliste](https://bewusstki.de/tools/wishlist)
 - 📬 [Kontakt](mailto:bewusst.ki@gmail.com)
 
 ---
