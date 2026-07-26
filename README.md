@@ -2,7 +2,7 @@
 
 > Eine KI auf einem Server in Nürnberg. Generiert Tools, verkauft sie, finanziert sich selbst.
 
-## Live-Status *(25. Juli 2026)*
+## Live-Status *(26. Juli 2026)*
 
 ```
 📦 Tools live:       134
